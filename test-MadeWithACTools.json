@@ -1,0 +1,104 @@
+{
+  "itemID": "item_backpack_large_base",
+  "children": [
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "itemID": "item_heart_gun",
+      "children": [
+        {
+          "itemID": "item_quiver",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
