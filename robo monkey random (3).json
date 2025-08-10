@@ -1,0 +1,4605 @@
+{
+    "itemID": "item_backpack_large_base",
+    "children": [
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 125,
+                    "colorSaturation": 77,
+                    "scaleModifier": 85
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 52,
+                    "colorSaturation": 119,
+                    "scaleModifier": -58
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 42,
+                    "colorSaturation": 10,
+                    "scaleModifier": -4
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 20,
+                    "colorSaturation": 18,
+                    "scaleModifier": 106
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 145,
+                    "colorSaturation": 56,
+                    "scaleModifier": 46
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 191,
+                    "colorSaturation": 59,
+                    "scaleModifier": 52
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 82,
+                    "colorSaturation": 75,
+                    "scaleModifier": 67
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 143,
+                    "colorSaturation": 5,
+                    "scaleModifier": 43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 207,
+                    "colorSaturation": 85,
+                    "scaleModifier": -98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 51,
+                    "colorSaturation": 11,
+                    "scaleModifier": 27
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 138,
+                    "colorSaturation": 95,
+                    "scaleModifier": -36
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 185,
+                    "colorSaturation": 7,
+                    "scaleModifier": 52
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 195,
+                    "colorSaturation": 9,
+                    "scaleModifier": 110
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 180,
+                    "colorSaturation": 21,
+                    "scaleModifier": 42
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 50,
+                    "colorSaturation": 64,
+                    "scaleModifier": 86
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 36,
+                    "colorSaturation": 66,
+                    "scaleModifier": -14
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 94,
+                    "colorSaturation": 60,
+                    "scaleModifier": 46
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 90,
+                    "colorSaturation": 78,
+                    "scaleModifier": 55
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 112,
+                    "colorSaturation": 81,
+                    "scaleModifier": -77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 19,
+                    "scaleModifier": 28
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 89,
+                    "scaleModifier": 71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 50,
+                    "colorSaturation": 32,
+                    "scaleModifier": -103
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 131,
+                    "colorSaturation": 14,
+                    "scaleModifier": -87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 46,
+                    "colorSaturation": 118,
+                    "scaleModifier": 89
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 84,
+                    "colorSaturation": 105,
+                    "scaleModifier": 60
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 40,
+                    "scaleModifier": -37
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 204,
+                    "colorSaturation": 110,
+                    "scaleModifier": 62
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 174,
+                    "colorSaturation": 112,
+                    "scaleModifier": 69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 47,
+                    "colorSaturation": 4,
+                    "scaleModifier": 71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 166,
+                    "colorSaturation": 116,
+                    "scaleModifier": -66
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 6,
+                    "scaleModifier": -123
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 39,
+                    "scaleModifier": 10
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 123,
+                    "colorSaturation": 101,
+                    "scaleModifier": 69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 181,
+                    "colorSaturation": 97,
+                    "scaleModifier": 66
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 177,
+                    "colorSaturation": 46,
+                    "scaleModifier": -119
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 173,
+                    "colorSaturation": 30,
+                    "scaleModifier": -40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 58,
+                    "colorSaturation": 47,
+                    "scaleModifier": 21
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 174,
+                    "colorSaturation": 81,
+                    "scaleModifier": 4
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 89,
+                    "colorSaturation": 26,
+                    "scaleModifier": -53
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 90,
+                    "colorSaturation": 103,
+                    "scaleModifier": -15
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 115,
+                    "colorSaturation": 25,
+                    "scaleModifier": -87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 84,
+                    "scaleModifier": 120
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 192,
+                    "colorSaturation": 23,
+                    "scaleModifier": 32
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 8,
+                    "colorSaturation": 63,
+                    "scaleModifier": 29
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 78,
+                    "colorSaturation": 47,
+                    "scaleModifier": -96
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 121,
+                    "colorSaturation": 82,
+                    "scaleModifier": 33
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 23,
+                    "colorSaturation": 43,
+                    "scaleModifier": 124
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 117,
+                    "colorSaturation": 65,
+                    "scaleModifier": 7
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 4,
+                    "colorSaturation": 90,
+                    "scaleModifier": -43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 120,
+                    "colorSaturation": 105,
+                    "scaleModifier": 102
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 111,
+                    "colorSaturation": 110,
+                    "scaleModifier": -63
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 27,
+                    "colorSaturation": 108,
+                    "scaleModifier": 8
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 205,
+                    "colorSaturation": 117,
+                    "scaleModifier": -20
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 203,
+                    "colorSaturation": 36,
+                    "scaleModifier": -19
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 184,
+                    "colorSaturation": 61,
+                    "scaleModifier": 113
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 86,
+                    "colorSaturation": 88,
+                    "scaleModifier": -30
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 29,
+                    "colorSaturation": 16,
+                    "scaleModifier": 49
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 126,
+                    "colorSaturation": 11,
+                    "scaleModifier": 108
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 205,
+                    "colorSaturation": 55,
+                    "scaleModifier": 106
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 66,
+                    "colorSaturation": 15,
+                    "scaleModifier": -95
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 28,
+                    "colorSaturation": 49,
+                    "scaleModifier": -104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 191,
+                    "colorSaturation": 48,
+                    "scaleModifier": -29
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 2,
+                    "colorSaturation": 4,
+                    "scaleModifier": 65
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 82,
+                    "colorSaturation": 58,
+                    "scaleModifier": 37
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 30,
+                    "colorSaturation": 15,
+                    "scaleModifier": -40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 49,
+                    "colorSaturation": 27,
+                    "scaleModifier": -4
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 177,
+                    "colorSaturation": 90,
+                    "scaleModifier": 115
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 190,
+                    "colorSaturation": 61,
+                    "scaleModifier": -127
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 28,
+                    "colorSaturation": 0,
+                    "scaleModifier": 21
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 14,
+                    "colorSaturation": 84,
+                    "scaleModifier": 38
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 98,
+                    "colorSaturation": 27,
+                    "scaleModifier": 30
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 24,
+                    "scaleModifier": -67
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 7,
+                    "colorSaturation": 49,
+                    "scaleModifier": 2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 146,
+                    "colorSaturation": 79,
+                    "scaleModifier": 103
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 140,
+                    "colorSaturation": 88,
+                    "scaleModifier": -39
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 106,
+                    "colorSaturation": 41,
+                    "scaleModifier": 7
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 110,
+                    "colorSaturation": 0,
+                    "scaleModifier": -52
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 95,
+                    "colorSaturation": 10,
+                    "scaleModifier": -84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 102,
+                    "colorSaturation": 115,
+                    "scaleModifier": -104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 92,
+                    "colorSaturation": 11,
+                    "scaleModifier": -110
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 123,
+                    "colorSaturation": 77,
+                    "scaleModifier": -102
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 1,
+                    "colorSaturation": 80,
+                    "scaleModifier": 18
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 5,
+                    "colorSaturation": 105,
+                    "scaleModifier": -76
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 189,
+                    "colorSaturation": 24,
+                    "scaleModifier": -77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 73,
+                    "colorSaturation": 119,
+                    "scaleModifier": -57
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 181,
+                    "colorSaturation": 7,
+                    "scaleModifier": 107
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 92,
+                    "colorSaturation": 3,
+                    "scaleModifier": 35
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 58,
+                    "colorSaturation": 55,
+                    "scaleModifier": -101
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 179,
+                    "colorSaturation": 109,
+                    "scaleModifier": -105
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 126,
+                    "colorSaturation": 19,
+                    "scaleModifier": 88
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 142,
+                    "colorSaturation": 37,
+                    "scaleModifier": 26
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 157,
+                    "colorSaturation": 21,
+                    "scaleModifier": -109
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 17,
+                    "colorSaturation": 2,
+                    "scaleModifier": 120
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 32,
+                    "colorSaturation": 96,
+                    "scaleModifier": 53
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 111,
+                    "colorSaturation": 33,
+                    "scaleModifier": -1
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 188,
+                    "colorSaturation": 99,
+                    "scaleModifier": -90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 198,
+                    "colorSaturation": 92,
+                    "scaleModifier": -108
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 179,
+                    "colorSaturation": 87,
+                    "scaleModifier": -103
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 47,
+                    "colorSaturation": 79,
+                    "scaleModifier": -15
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 9,
+                    "colorSaturation": 61,
+                    "scaleModifier": -119
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 159,
+                    "colorSaturation": 117,
+                    "scaleModifier": 53
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 154,
+                    "colorSaturation": 107,
+                    "scaleModifier": 8
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 194,
+                    "colorSaturation": 55,
+                    "scaleModifier": 11
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 49,
+                    "scaleModifier": 97
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 3,
+                    "colorSaturation": 103,
+                    "scaleModifier": 113
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 44,
+                    "colorSaturation": 67,
+                    "scaleModifier": -2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 62,
+                    "colorSaturation": 30,
+                    "scaleModifier": -24
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 12,
+                    "colorSaturation": 30,
+                    "scaleModifier": 40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 205,
+                    "colorSaturation": 73,
+                    "scaleModifier": 81
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 67,
+                    "colorSaturation": 35,
+                    "scaleModifier": -111
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 173,
+                    "colorSaturation": 104,
+                    "scaleModifier": 37
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 149,
+                    "colorSaturation": 27,
+                    "scaleModifier": -59
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 131,
+                    "colorSaturation": 65,
+                    "scaleModifier": 26
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 86,
+                    "colorSaturation": 15,
+                    "scaleModifier": 111
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 54,
+                    "colorSaturation": 19,
+                    "scaleModifier": -2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 168,
+                    "colorSaturation": 57,
+                    "scaleModifier": 104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 177,
+                    "colorSaturation": 75,
+                    "scaleModifier": -24
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 87,
+                    "colorSaturation": 74,
+                    "scaleModifier": 77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 172,
+                    "colorSaturation": 103,
+                    "scaleModifier": 105
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 185,
+                    "colorSaturation": 81,
+                    "scaleModifier": 63
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 71,
+                    "colorSaturation": 99,
+                    "scaleModifier": -100
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 42,
+                    "colorSaturation": 6,
+                    "scaleModifier": 125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 4,
+                    "colorSaturation": 113,
+                    "scaleModifier": -63
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 46,
+                    "colorSaturation": 119,
+                    "scaleModifier": 11
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 23,
+                    "colorSaturation": 72,
+                    "scaleModifier": 81
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 67,
+                    "colorSaturation": 3,
+                    "scaleModifier": 76
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 194,
+                    "colorSaturation": 57,
+                    "scaleModifier": 72
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 178,
+                    "colorSaturation": 106,
+                    "scaleModifier": -15
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 198,
+                    "colorSaturation": 78,
+                    "scaleModifier": 69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 71,
+                    "colorSaturation": 90,
+                    "scaleModifier": -124
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 172,
+                    "colorSaturation": 111,
+                    "scaleModifier": -85
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 196,
+                    "colorSaturation": 87,
+                    "scaleModifier": 122
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 33,
+                    "colorSaturation": 15,
+                    "scaleModifier": 40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 12,
+                    "colorSaturation": 49,
+                    "scaleModifier": 101
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 157,
+                    "colorSaturation": 27,
+                    "scaleModifier": -20
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 90,
+                    "colorSaturation": 34,
+                    "scaleModifier": -66
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 72,
+                    "colorSaturation": 90,
+                    "scaleModifier": -94
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 50,
+                    "colorSaturation": 90,
+                    "scaleModifier": -1
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 207,
+                    "colorSaturation": 13,
+                    "scaleModifier": 13
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 106,
+                    "colorSaturation": 79,
+                    "scaleModifier": -21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 199,
+                    "colorSaturation": 25,
+                    "scaleModifier": 53
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 99,
+                    "colorSaturation": 72,
+                    "scaleModifier": -77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 48,
+                    "colorSaturation": 3,
+                    "scaleModifier": -10
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 196,
+                    "colorSaturation": 86,
+                    "scaleModifier": 2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 109,
+                    "colorSaturation": 67,
+                    "scaleModifier": 113
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 13,
+                    "colorSaturation": 76,
+                    "scaleModifier": -3
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 168,
+                    "colorSaturation": 58,
+                    "scaleModifier": -107
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 45,
+                    "colorSaturation": 55,
+                    "scaleModifier": 75
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 161,
+                    "colorSaturation": 12,
+                    "scaleModifier": -48
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 6,
+                    "colorSaturation": 117,
+                    "scaleModifier": 2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 142,
+                    "colorSaturation": 67,
+                    "scaleModifier": 24
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 33,
+                    "scaleModifier": -44
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 105,
+                    "colorSaturation": 111,
+                    "scaleModifier": 98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 131,
+                    "colorSaturation": 0,
+                    "scaleModifier": 39
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 202,
+                    "colorSaturation": 112,
+                    "scaleModifier": 10
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 25,
+                    "colorSaturation": 21,
+                    "scaleModifier": 90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 129,
+                    "colorSaturation": 107,
+                    "scaleModifier": -90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 206,
+                    "colorSaturation": 31,
+                    "scaleModifier": -5
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 107,
+                    "colorSaturation": 108,
+                    "scaleModifier": 95
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 91,
+                    "scaleModifier": -25
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 86,
+                    "colorSaturation": 14,
+                    "scaleModifier": -93
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 51,
+                    "colorSaturation": 87,
+                    "scaleModifier": 35
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 63,
+                    "colorSaturation": 48,
+                    "scaleModifier": -6
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 77,
+                    "colorSaturation": 77,
+                    "scaleModifier": -71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 165,
+                    "colorSaturation": 39,
+                    "scaleModifier": 122
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 115,
+                    "scaleModifier": 118
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 19,
+                    "colorSaturation": 30,
+                    "scaleModifier": 81
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 113,
+                    "colorSaturation": 92,
+                    "scaleModifier": 4
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 195,
+                    "colorSaturation": 119,
+                    "scaleModifier": -84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 85,
+                    "colorSaturation": 9,
+                    "scaleModifier": 60
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 78,
+                    "colorSaturation": 47,
+                    "scaleModifier": 56
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 67,
+                    "colorSaturation": 116,
+                    "scaleModifier": 98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 123,
+                    "colorSaturation": 13,
+                    "scaleModifier": -70
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 156,
+                    "colorSaturation": 43,
+                    "scaleModifier": 110
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 96,
+                    "colorSaturation": 22,
+                    "scaleModifier": 97
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 156,
+                    "colorSaturation": 5,
+                    "scaleModifier": 60
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 93,
+                    "colorSaturation": 10,
+                    "scaleModifier": 9
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 175,
+                    "colorSaturation": 61,
+                    "scaleModifier": 94
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 112,
+                    "colorSaturation": 78,
+                    "scaleModifier": -125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 168,
+                    "colorSaturation": 62,
+                    "scaleModifier": -107
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 122,
+                    "colorSaturation": 87,
+                    "scaleModifier": -44
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 99,
+                    "colorSaturation": 18,
+                    "scaleModifier": 57
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 2,
+                    "colorSaturation": 61,
+                    "scaleModifier": 0
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 102,
+                    "colorSaturation": 43,
+                    "scaleModifier": -96
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 22,
+                    "colorSaturation": 7,
+                    "scaleModifier": -105
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 207,
+                    "colorSaturation": 37,
+                    "scaleModifier": -48
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 142,
+                    "colorSaturation": 100,
+                    "scaleModifier": 22
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 107,
+                    "colorSaturation": 48,
+                    "scaleModifier": -107
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 7,
+                    "colorSaturation": 107,
+                    "scaleModifier": -77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 21,
+                    "colorSaturation": 95,
+                    "scaleModifier": -28
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 97,
+                    "colorSaturation": 110,
+                    "scaleModifier": -85
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 134,
+                    "colorSaturation": 19,
+                    "scaleModifier": -86
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 59,
+                    "scaleModifier": -87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 16,
+                    "colorSaturation": 18,
+                    "scaleModifier": 35
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 19,
+                    "colorSaturation": 93,
+                    "scaleModifier": -8
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 154,
+                    "colorSaturation": 112,
+                    "scaleModifier": 74
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 126,
+                    "colorSaturation": 1,
+                    "scaleModifier": -14
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 200,
+                    "colorSaturation": 13,
+                    "scaleModifier": -81
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 152,
+                    "colorSaturation": 59,
+                    "scaleModifier": -45
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 154,
+                    "colorSaturation": 96,
+                    "scaleModifier": 104
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 192,
+                    "colorSaturation": 106,
+                    "scaleModifier": 56
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 71,
+                    "colorSaturation": 54,
+                    "scaleModifier": -30
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 78,
+                    "colorSaturation": 41,
+                    "scaleModifier": -21
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 116,
+                    "colorSaturation": 60,
+                    "scaleModifier": 84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 39,
+                    "colorSaturation": 16,
+                    "scaleModifier": -43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 177,
+                    "colorSaturation": 114,
+                    "scaleModifier": 22
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 95,
+                    "colorSaturation": 82,
+                    "scaleModifier": 82
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 27,
+                    "colorSaturation": 105,
+                    "scaleModifier": -79
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 7,
+                    "colorSaturation": 13,
+                    "scaleModifier": -54
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 55,
+                    "colorSaturation": 71,
+                    "scaleModifier": -98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 144,
+                    "colorSaturation": 49,
+                    "scaleModifier": -22
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 57,
+                    "colorSaturation": 55,
+                    "scaleModifier": -93
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 15,
+                    "colorSaturation": 27,
+                    "scaleModifier": 101
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 173,
+                    "colorSaturation": 46,
+                    "scaleModifier": 116
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 200,
+                    "colorSaturation": 65,
+                    "scaleModifier": 95
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 75,
+                    "colorSaturation": 6,
+                    "scaleModifier": 19
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 146,
+                    "colorSaturation": 28,
+                    "scaleModifier": -125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 29,
+                    "colorSaturation": 97,
+                    "scaleModifier": -69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 189,
+                    "colorSaturation": 21,
+                    "scaleModifier": 72
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 0,
+                    "scaleModifier": 68
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 195,
+                    "colorSaturation": 89,
+                    "scaleModifier": -104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 105,
+                    "colorSaturation": 41,
+                    "scaleModifier": 46
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 112,
+                    "colorSaturation": 56,
+                    "scaleModifier": -110
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 29,
+                    "colorSaturation": 3,
+                    "scaleModifier": -13
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 16,
+                    "colorSaturation": 11,
+                    "scaleModifier": -18
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 70,
+                    "colorSaturation": 26,
+                    "scaleModifier": -77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 122,
+                    "colorSaturation": 49,
+                    "scaleModifier": 68
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 166,
+                    "colorSaturation": 109,
+                    "scaleModifier": -19
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 45,
+                    "colorSaturation": 12,
+                    "scaleModifier": -76
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 175,
+                    "colorSaturation": 73,
+                    "scaleModifier": -72
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 76,
+                    "colorSaturation": 83,
+                    "scaleModifier": -74
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 164,
+                    "colorSaturation": 30,
+                    "scaleModifier": -45
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 123,
+                    "colorSaturation": 95,
+                    "scaleModifier": -67
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 201,
+                    "colorSaturation": 68,
+                    "scaleModifier": 125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 1,
+                    "colorSaturation": 82,
+                    "scaleModifier": -84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 11,
+                    "colorSaturation": 68,
+                    "scaleModifier": 48
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 199,
+                    "colorSaturation": 52,
+                    "scaleModifier": -29
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 140,
+                    "colorSaturation": 39,
+                    "scaleModifier": -123
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 201,
+                    "colorSaturation": 16,
+                    "scaleModifier": 74
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 153,
+                    "colorSaturation": 28,
+                    "scaleModifier": 52
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 136,
+                    "colorSaturation": 85,
+                    "scaleModifier": -41
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 33,
+                    "colorSaturation": 15,
+                    "scaleModifier": -37
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 25,
+                    "colorSaturation": 5,
+                    "scaleModifier": -56
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 48,
+                    "scaleModifier": 77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 30,
+                    "colorSaturation": 117,
+                    "scaleModifier": 95
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 88,
+                    "scaleModifier": -66
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 112,
+                    "colorSaturation": 63,
+                    "scaleModifier": -123
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 118,
+                    "colorSaturation": 17,
+                    "scaleModifier": -31
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 45,
+                    "colorSaturation": 64,
+                    "scaleModifier": -3
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 28,
+                    "colorSaturation": 48,
+                    "scaleModifier": 42
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 29,
+                    "colorSaturation": 116,
+                    "scaleModifier": 72
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 23,
+                    "colorSaturation": 98,
+                    "scaleModifier": 83
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 142,
+                    "colorSaturation": 53,
+                    "scaleModifier": 23
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 63,
+                    "colorSaturation": 83,
+                    "scaleModifier": 89
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 92,
+                    "colorSaturation": 19,
+                    "scaleModifier": -46
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 90,
+                    "colorSaturation": 15,
+                    "scaleModifier": -58
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 202,
+                    "colorSaturation": 102,
+                    "scaleModifier": 95
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 170,
+                    "colorSaturation": 7,
+                    "scaleModifier": 79
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 19,
+                    "colorSaturation": 66,
+                    "scaleModifier": -87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 36,
+                    "colorSaturation": 12,
+                    "scaleModifier": -75
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 55,
+                    "colorSaturation": 108,
+                    "scaleModifier": -27
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 47,
+                    "colorSaturation": 54,
+                    "scaleModifier": -29
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 138,
+                    "colorSaturation": 7,
+                    "scaleModifier": 97
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 184,
+                    "colorSaturation": 110,
+                    "scaleModifier": -79
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 6,
+                    "colorSaturation": 107,
+                    "scaleModifier": 74
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 52,
+                    "colorSaturation": 38,
+                    "scaleModifier": 49
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 147,
+                    "colorSaturation": 114,
+                    "scaleModifier": -124
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 52,
+                    "colorSaturation": 80,
+                    "scaleModifier": -11
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 86,
+                    "colorSaturation": 118,
+                    "scaleModifier": -43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 23,
+                    "colorSaturation": 99,
+                    "scaleModifier": -11
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 21,
+                    "colorSaturation": 64,
+                    "scaleModifier": -98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 172,
+                    "colorSaturation": 10,
+                    "scaleModifier": -42
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 106,
+                    "colorSaturation": 15,
+                    "scaleModifier": 71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 190,
+                    "colorSaturation": 23,
+                    "scaleModifier": 87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 139,
+                    "colorSaturation": 58,
+                    "scaleModifier": -34
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 140,
+                    "colorSaturation": 48,
+                    "scaleModifier": 95
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 63,
+                    "colorSaturation": 3,
+                    "scaleModifier": -90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 42,
+                    "colorSaturation": 20,
+                    "scaleModifier": -65
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 204,
+                    "colorSaturation": 50,
+                    "scaleModifier": 40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 195,
+                    "colorSaturation": 16,
+                    "scaleModifier": -66
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 7,
+                    "colorSaturation": 84,
+                    "scaleModifier": 30
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 190,
+                    "colorSaturation": 58,
+                    "scaleModifier": 69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 158,
+                    "colorSaturation": 96,
+                    "scaleModifier": -92
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 35,
+                    "colorSaturation": 12,
+                    "scaleModifier": -111
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 57,
+                    "colorSaturation": 57,
+                    "scaleModifier": -11
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 140,
+                    "colorSaturation": 76,
+                    "scaleModifier": 46
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 100,
+                    "colorSaturation": 75,
+                    "scaleModifier": 15
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 152,
+                    "colorSaturation": 79,
+                    "scaleModifier": -65
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 110,
+                    "colorSaturation": 39,
+                    "scaleModifier": -81
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 145,
+                    "colorSaturation": 0,
+                    "scaleModifier": -5
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 64,
+                    "colorSaturation": 112,
+                    "scaleModifier": 100
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 114,
+                    "colorSaturation": 91,
+                    "scaleModifier": 38
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 159,
+                    "colorSaturation": 55,
+                    "scaleModifier": -47
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 207,
+                    "colorSaturation": 88,
+                    "scaleModifier": 6
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 38,
+                    "colorSaturation": 75,
+                    "scaleModifier": -30
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 128,
+                    "colorSaturation": 16,
+                    "scaleModifier": 25
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 52,
+                    "colorSaturation": 76,
+                    "scaleModifier": 35
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 55,
+                    "scaleModifier": 105
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 3,
+                    "colorSaturation": 92,
+                    "scaleModifier": -2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 121,
+                    "colorSaturation": 101,
+                    "scaleModifier": 73
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 209,
+                    "colorSaturation": 64,
+                    "scaleModifier": 124
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 143,
+                    "colorSaturation": 117,
+                    "scaleModifier": 12
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 27,
+                    "colorSaturation": 101,
+                    "scaleModifier": 125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 77,
+                    "colorSaturation": 49,
+                    "scaleModifier": 68
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 66,
+                    "scaleModifier": -34
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 47,
+                    "colorSaturation": 56,
+                    "scaleModifier": -15
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 159,
+                    "colorSaturation": 7,
+                    "scaleModifier": 26
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 130,
+                    "colorSaturation": 13,
+                    "scaleModifier": -116
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 97,
+                    "colorSaturation": 111,
+                    "scaleModifier": -31
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 155,
+                    "colorSaturation": 80,
+                    "scaleModifier": -2
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 137,
+                    "colorSaturation": 112,
+                    "scaleModifier": -6
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 151,
+                    "colorSaturation": 47,
+                    "scaleModifier": 62
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 61,
+                    "colorSaturation": 9,
+                    "scaleModifier": -51
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 158,
+                    "colorSaturation": 99,
+                    "scaleModifier": -55
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 199,
+                    "colorSaturation": 71,
+                    "scaleModifier": -114
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 108,
+                    "colorSaturation": 45,
+                    "scaleModifier": 84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 23,
+                    "colorSaturation": 31,
+                    "scaleModifier": -92
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 88,
+                    "colorSaturation": 51,
+                    "scaleModifier": -6
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 11,
+                    "colorSaturation": 35,
+                    "scaleModifier": 57
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 66,
+                    "colorSaturation": 14,
+                    "scaleModifier": -24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 24,
+                    "colorSaturation": 14,
+                    "scaleModifier": -38
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 12,
+                    "colorSaturation": 118,
+                    "scaleModifier": 96
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 122,
+                    "colorSaturation": 18,
+                    "scaleModifier": -61
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 144,
+                    "colorSaturation": 9,
+                    "scaleModifier": 87
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 34,
+                    "colorSaturation": 22,
+                    "scaleModifier": 53
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 165,
+                    "colorSaturation": 36,
+                    "scaleModifier": 48
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 180,
+                    "colorSaturation": 81,
+                    "scaleModifier": -85
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 108,
+                    "colorSaturation": 1,
+                    "scaleModifier": -43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 115,
+                    "colorSaturation": 4,
+                    "scaleModifier": -76
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 166,
+                    "colorSaturation": 18,
+                    "scaleModifier": -14
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 159,
+                    "colorSaturation": 116,
+                    "scaleModifier": 25
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 68,
+                    "colorSaturation": 56,
+                    "scaleModifier": -69
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 192,
+                    "colorSaturation": 4,
+                    "scaleModifier": 42
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 174,
+                    "colorSaturation": 44,
+                    "scaleModifier": 93
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 9,
+                    "colorSaturation": 43,
+                    "scaleModifier": 76
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 49,
+                    "colorSaturation": 71,
+                    "scaleModifier": -63
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 179,
+                    "colorSaturation": 103,
+                    "scaleModifier": 88
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 119,
+                    "scaleModifier": 65
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 99,
+                    "colorSaturation": 53,
+                    "scaleModifier": -36
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 37,
+                    "colorSaturation": 70,
+                    "scaleModifier": -77
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 63,
+                    "colorSaturation": 96,
+                    "scaleModifier": -122
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 181,
+                    "colorSaturation": 74,
+                    "scaleModifier": -10
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 176,
+                    "colorSaturation": 15,
+                    "scaleModifier": -23
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 166,
+                    "colorSaturation": 46,
+                    "scaleModifier": -90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 67,
+                    "colorSaturation": 24,
+                    "scaleModifier": 77
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 202,
+                    "colorSaturation": 112,
+                    "scaleModifier": -104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 65,
+                    "colorSaturation": 34,
+                    "scaleModifier": 14
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 39,
+                    "colorSaturation": 12,
+                    "scaleModifier": 83
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 115,
+                    "colorSaturation": 36,
+                    "scaleModifier": -36
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 164,
+                    "colorSaturation": 87,
+                    "scaleModifier": 118
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 35,
+                    "colorSaturation": 55,
+                    "scaleModifier": 117
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 112,
+                    "colorSaturation": 43,
+                    "scaleModifier": 98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 17,
+                    "colorSaturation": 39,
+                    "scaleModifier": 73
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 12,
+                    "scaleModifier": 43
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 72,
+                    "colorSaturation": 93,
+                    "scaleModifier": -89
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 147,
+                    "colorSaturation": 57,
+                    "scaleModifier": 109
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 6,
+                    "scaleModifier": -73
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 162,
+                    "colorSaturation": 16,
+                    "scaleModifier": 28
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 181,
+                    "colorSaturation": 99,
+                    "scaleModifier": -34
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 142,
+                    "colorSaturation": 14,
+                    "scaleModifier": -31
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 58,
+                    "colorSaturation": 113,
+                    "scaleModifier": -68
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 27,
+                    "colorSaturation": 65,
+                    "scaleModifier": -71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 120,
+                    "colorSaturation": 4,
+                    "scaleModifier": 104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 189,
+                    "colorSaturation": 68,
+                    "scaleModifier": 59
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 141,
+                    "colorSaturation": 70,
+                    "scaleModifier": -119
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 42,
+                    "colorSaturation": 8,
+                    "scaleModifier": 78
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 72,
+                    "colorSaturation": 2,
+                    "scaleModifier": -106
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 109,
+                    "colorSaturation": 69,
+                    "scaleModifier": -36
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 163,
+                    "colorSaturation": 44,
+                    "scaleModifier": 80
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 79,
+                    "colorSaturation": 98,
+                    "scaleModifier": 104
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 14,
+                    "colorSaturation": 112,
+                    "scaleModifier": -19
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 168,
+                    "colorSaturation": 38,
+                    "scaleModifier": -73
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 156,
+                    "colorSaturation": 38,
+                    "scaleModifier": 93
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 40,
+                    "colorSaturation": 115,
+                    "scaleModifier": 98
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 47,
+                    "colorSaturation": 101,
+                    "scaleModifier": -36
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 199,
+                    "colorSaturation": 48,
+                    "scaleModifier": -13
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 190,
+                    "colorSaturation": 45,
+                    "scaleModifier": 34
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 33,
+                    "colorSaturation": 42,
+                    "scaleModifier": -39
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 32,
+                    "colorSaturation": 81,
+                    "scaleModifier": -9
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 143,
+                    "colorSaturation": 98,
+                    "scaleModifier": 66
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "itemID": "item_heart_gun",
+        "children": [
+          {
+            "itemID": "item_backpack_large_base",
+            "children": [
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 88,
+                    "colorSaturation": 116,
+                    "scaleModifier": -9
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 173,
+                    "colorSaturation": 32,
+                    "scaleModifier": -79
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 173,
+                    "colorSaturation": 58,
+                    "scaleModifier": -52
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 115,
+                    "colorSaturation": 108,
+                    "scaleModifier": -83
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 120,
+                    "colorSaturation": 9,
+                    "scaleModifier": -14
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 125,
+                    "colorSaturation": 89,
+                    "scaleModifier": 91
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 3,
+                    "colorSaturation": 86,
+                    "scaleModifier": -84
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 158,
+                    "colorSaturation": 75,
+                    "scaleModifier": 44
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 192,
+                    "colorSaturation": 8,
+                    "scaleModifier": 125
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 199,
+                    "colorSaturation": 99,
+                    "scaleModifier": 101
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 188,
+                    "colorSaturation": 57,
+                    "scaleModifier": 71
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 195,
+                    "colorSaturation": 3,
+                    "scaleModifier": -117
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 91,
+                    "colorSaturation": 10,
+                    "scaleModifier": -126
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 34,
+                    "colorSaturation": 48,
+                    "scaleModifier": -90
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 77,
+                    "colorSaturation": 112,
+                    "scaleModifier": 9
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 132,
+                    "colorSaturation": 24,
+                    "scaleModifier": -111
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 197,
+                    "colorSaturation": 116,
+                    "scaleModifier": -115
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 183,
+                    "colorSaturation": 25,
+                    "scaleModifier": -40
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 145,
+                    "colorSaturation": 19,
+                    "scaleModifier": -34
+                  }
+                ]
+              },
+              {
+                "itemID": "item_heart_gun",
+                "children": [
+                  {
+                    "itemID": "item_jbrfkhdfshkb",
+                    "colorHue": 15,
+                    "colorSaturation": 101,
+                    "scaleModifier": -40
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
