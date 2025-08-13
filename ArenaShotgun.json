@@ -1,0 +1,154 @@
+{
+    "itemID": "item_quiver",
+    "colorHue": 159,
+    "colorSaturation": 120,
+    "scaleModifier": 127,
+    "state": 0,
+    "count": 1,
+    "children": [
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      },
+      {
+        "itemID": "item_arena_shotgun",
+        "colorHue": 159,
+        "colorSaturation": 120,
+        "scaleModifier": 127,
+        "state": 0,
+        "count": 1
+      }
+    ]
+  }
